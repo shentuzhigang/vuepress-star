@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[943],{30943:(e,s,a)=>{a.r(s),a.d(s,{default:()=>r});var c=a(1863),u=a(53827),v=a(49667);const d={class:"overview"},i=(0,c.aZ)({name:"Overview"}),r=(0,c.aZ)({...i,setup:e=>(e,s)=>((0,c.wg)(),(0,c.iD)("div",d,[(0,c.Wm)((0,u.SU)(v.VY))]))})}}]);

@@ -1,0 +1,2 @@
+const d=`code .color-model{height:.7em;width:.7em;margin-left:4px;display:inline-block;border-radius:50%;border:1px solid #d0d7de}
+`;export{d as default};

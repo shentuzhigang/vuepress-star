@@ -1,0 +1,56 @@
+import{_ as e,r as o,o as p,c,a as s,d as l,b as i,f as n}from"./app.07530a6c.js";const t={},r=s("h2",{id:"syntax",tabindex:"-1"},[s("a",{class:"header-anchor",href:"#syntax","aria-hidden":"true"},"#"),i(" Syntax")],-1),d={class:"code-enhance"},D=n(`<div class="language-markdown line-numbers-mode" data-ext="md"><pre class="shiki" style="background-color:#1E1E1E;"><code><span class="line"><span style="color:#D4D4D4;">::: demo Optional title text</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#D4D4D4;">\`\`\`html</span></span>
+<span class="line"><span style="color:#6A9955;">&lt;!-- html code --&gt;</span></span>
+<span class="line"><span style="color:#D4D4D4;">\`\`\`</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#D4D4D4;">\`\`\`js</span></span>
+<span class="line"><span style="color:#6A9955;">// js code</span></span>
+<span class="line"><span style="color:#D4D4D4;">\`\`\`</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#D4D4D4;">\`\`\`css</span></span>
+<span class="line"><span style="color:#6A9955;">/* css code */</span></span>
+<span class="line"><span style="color:#D4D4D4;">\`\`\`</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#D4D4D4;">\`\`\`json</span></span>
+<span class="line"><span style="color:#6A9955;">// config (optional)</span></span>
+<span class="line"><span style="color:#D4D4D4;">{</span></span>
+<span class="line"><span style="color:#D4D4D4;">  </span><span style="color:#9CDCFE;">&quot;jsLib&quot;</span><span style="color:#D4D4D4;">: [</span></span>
+<span class="line"><span style="color:#D4D4D4;">    </span><span style="color:#F44747;">...</span></span>
+<span class="line"><span style="color:#D4D4D4;">  ],</span></span>
+<span class="line"><span style="color:#D4D4D4;">  </span><span style="color:#9CDCFE;">&quot;cssLib&quot;</span><span style="color:#D4D4D4;">:[</span></span>
+<span class="line"><span style="color:#D4D4D4;">    </span><span style="color:#F44747;">...</span></span>
+<span class="line"><span style="color:#D4D4D4;">  ]</span></span>
+<span class="line"><span style="color:#D4D4D4;">}</span></span>
+<span class="line"><span style="color:#D4D4D4;">\`\`\`</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#D4D4D4;">::::</span></span>
+<span class="line"></span></code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,1),y=n('<div class="custom-container warning"><p class="custom-container-title">Attention</p><ul><li>We use “ShadowDOM” to make style isolation, and we already replace <code>document</code> with <code>shadowRoot</code>. If you want to access the page document, please visit <code>window.document</code>.</li></ul></div><h2 id="demo" tabindex="-1"><a class="header-anchor" href="#demo" aria-hidden="true">#</a> Demo</h2><p>::: demo Demo</p>',3),v={class:"code-enhance"},u=n(`<div class="language-html line-numbers-mode" data-ext="html"><pre class="shiki" style="background-color:#1E1E1E;"><code><span class="line"><span style="color:#808080;">&lt;</span><span style="color:#569CD6;">h1</span><span style="color:#808080;">&gt;</span><span style="color:#D4D4D4;">Mr.Hope</span><span style="color:#808080;">&lt;/</span><span style="color:#569CD6;">h1</span><span style="color:#808080;">&gt;</span></span>
+<span class="line"><span style="color:#808080;">&lt;</span><span style="color:#569CD6;">p</span><span style="color:#808080;">&gt;</span><span style="color:#D4D4D4;">is </span><span style="color:#808080;">&lt;</span><span style="color:#569CD6;">span</span><span style="color:#D4D4D4;"> </span><span style="color:#9CDCFE;">id</span><span style="color:#D4D4D4;">=</span><span style="color:#CE9178;">&quot;very&quot;</span><span style="color:#808080;">&gt;</span><span style="color:#D4D4D4;">very</span><span style="color:#808080;">&lt;/</span><span style="color:#569CD6;">span</span><span style="color:#808080;">&gt;</span><span style="color:#D4D4D4;"> handsome</span><span style="color:#808080;">&lt;/</span><span style="color:#569CD6;">p</span><span style="color:#808080;">&gt;</span></span>
+<span class="line"></span></code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div>`,1),m={class:"code-enhance"},b=n(`<div class="language-javascript line-numbers-mode" data-ext="js"><pre class="shiki" style="background-color:#1E1E1E;"><code><span class="line"><span style="color:#9CDCFE;">document</span><span style="color:#D4D4D4;">.</span><span style="color:#DCDCAA;">querySelector</span><span style="color:#D4D4D4;">(</span><span style="color:#CE9178;">&quot;#very&quot;</span><span style="color:#D4D4D4;">).</span><span style="color:#DCDCAA;">addEventListener</span><span style="color:#D4D4D4;">(</span><span style="color:#CE9178;">&quot;click&quot;</span><span style="color:#D4D4D4;">, () </span><span style="color:#569CD6;">=&gt;</span><span style="color:#D4D4D4;"> {</span></span>
+<span class="line"><span style="color:#D4D4D4;">  </span><span style="color:#DCDCAA;">alert</span><span style="color:#D4D4D4;">(</span><span style="color:#CE9178;">&quot;Very handsome&quot;</span><span style="color:#D4D4D4;">);</span></span>
+<span class="line"><span style="color:#D4D4D4;">});</span></span>
+<span class="line"></span></code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,1),h={class:"code-enhance"},C=n(`<div class="language-css line-numbers-mode" data-ext="css"><pre class="shiki" style="background-color:#1E1E1E;"><code><span class="line"><span style="color:#D7BA7D;">span</span><span style="color:#D4D4D4;"> {</span></span>
+<span class="line"><span style="color:#D4D4D4;">  </span><span style="color:#9CDCFE;">color</span><span style="color:#D4D4D4;">: </span><span style="color:#CE9178;">red</span><span style="color:#D4D4D4;">;</span></span>
+<span class="line"><span style="color:#D4D4D4;">}</span></span>
+<span class="line"></span></code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,1),_=s("p",null,":::",-1),E={class:"custom-container details"},g=s("summary",null,"Code",-1),q={class:"code-enhance"},A=n(`<div class="language-markdown line-numbers-mode" data-ext="md"><pre class="shiki" style="background-color:#1E1E1E;"><code><span class="line"><span style="color:#D4D4D4;">::: demo Demo</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#D4D4D4;">\`\`\`html</span></span>
+<span class="line"><span style="color:#808080;">&lt;</span><span style="color:#569CD6;">h1</span><span style="color:#808080;">&gt;</span><span style="color:#D4D4D4;">Mr.Hope</span><span style="color:#808080;">&lt;/</span><span style="color:#569CD6;">h1</span><span style="color:#808080;">&gt;</span></span>
+<span class="line"><span style="color:#808080;">&lt;</span><span style="color:#569CD6;">p</span><span style="color:#808080;">&gt;</span><span style="color:#D4D4D4;">is </span><span style="color:#808080;">&lt;</span><span style="color:#569CD6;">span</span><span style="color:#D4D4D4;"> </span><span style="color:#9CDCFE;">id</span><span style="color:#D4D4D4;">=</span><span style="color:#CE9178;">&quot;very&quot;</span><span style="color:#808080;">&gt;</span><span style="color:#D4D4D4;">very</span><span style="color:#808080;">&lt;/</span><span style="color:#569CD6;">span</span><span style="color:#808080;">&gt;</span><span style="color:#D4D4D4;"> handsome</span><span style="color:#808080;">&lt;/</span><span style="color:#569CD6;">p</span><span style="color:#808080;">&gt;</span></span>
+<span class="line"><span style="color:#D4D4D4;">\`\`\`</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#D4D4D4;">\`\`\`js</span></span>
+<span class="line"><span style="color:#9CDCFE;">document</span><span style="color:#D4D4D4;">.</span><span style="color:#DCDCAA;">querySelector</span><span style="color:#D4D4D4;">(</span><span style="color:#CE9178;">&quot;#very&quot;</span><span style="color:#D4D4D4;">).</span><span style="color:#DCDCAA;">addEventListener</span><span style="color:#D4D4D4;">(</span><span style="color:#CE9178;">&quot;click&quot;</span><span style="color:#D4D4D4;">, () </span><span style="color:#569CD6;">=&gt;</span><span style="color:#D4D4D4;"> {</span></span>
+<span class="line"><span style="color:#D4D4D4;">  </span><span style="color:#DCDCAA;">alert</span><span style="color:#D4D4D4;">(</span><span style="color:#CE9178;">&quot;Very handsome&quot;</span><span style="color:#D4D4D4;">);</span></span>
+<span class="line"><span style="color:#D4D4D4;">});</span></span>
+<span class="line"><span style="color:#D4D4D4;">\`\`\`</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#D4D4D4;">\`\`\`css</span></span>
+<span class="line"><span style="color:#D7BA7D;">span</span><span style="color:#D4D4D4;"> {</span></span>
+<span class="line"><span style="color:#D4D4D4;">  </span><span style="color:#9CDCFE;">color</span><span style="color:#D4D4D4;">: </span><span style="color:#CE9178;">red</span><span style="color:#D4D4D4;">;</span></span>
+<span class="line"><span style="color:#D4D4D4;">}</span></span>
+<span class="line"><span style="color:#D4D4D4;">\`\`\`</span></span>
+<span class="line"></span>
+<span class="line"><span style="color:#D4D4D4;">:::</span></span>
+<span class="line"></span></code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,1);function k(x,f){const a=o("CodeCopyButton");return p(),c("div",null,[r,s("div",d,[D,l(a)]),y,s("div",v,[u,l(a)]),s("div",m,[b,l(a)]),s("div",h,[C,l(a)]),_,s("details",E,[g,s("div",q,[A,l(a)])])])}const F=e(t,[["render",k],["__file","normal.html.vue"]]);export{F as default};

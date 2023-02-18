@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://vuepress-star.shentuzhigang.cn</id>
+    <title>vuepress-theme-star</title>
+    <updated>2023-02-18T06:41:50.654Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Home]]></title>
+        <id>/</id>
+        <link href="/"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Profile]]></title>
+        <id>/profile.html</id>
+        <link href="/profile.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Test]]></title>
+        <id>/test.html</id>
+        <link href="/test.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TODO]]></title>
+        <id>/todo.html</id>
+        <link href="/todo.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[首页]]></title>
+        <id>/zh/</id>
+        <link href="/zh/"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Presentation]]></title>
+        <id>/zh/presentation.html</id>
+        <link href="/zh/presentation.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[个人信息]]></title>
+        <id>/zh/profile.html</id>
+        <link href="/zh/profile.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TODO]]></title>
+        <id>/zh/todo.html</id>
+        <link href="/zh/todo.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Home]]></title>
+        <id>/zh/document/</id>
+        <link href="/zh/document/"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[指南]]></title>
+        <id>/zh/guide/</id>
+        <link href="/zh/guide/"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[配置]]></title>
+        <id>/zh/guide/configuration.html</id>
+        <link href="/zh/guide/configuration.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[快速上手]]></title>
+        <id>/zh/guide/getting-started.html</id>
+        <link href="/zh/guide/getting-started.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安装]]></title>
+        <id>/zh/guide/install.html</id>
+        <link href="/zh/guide/install.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[主题介绍]]></title>
+        <id>/zh/guide/introduction.html</id>
+        <link href="/zh/guide/introduction.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用]]></title>
+        <id>/zh/guide/using.html</id>
+        <link href="/zh/guide/using.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[组件]]></title>
+        <id>/zh/guide/component/</id>
+        <link href="/zh/guide/component/"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[徽章]]></title>
+        <id>/zh/guide/component/badge.html</id>
+        <link href="/zh/guide/component/badge.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CodeGroup]]></title>
+        <id>/zh/guide/component/code-group.html</id>
+        <link href="/zh/guide/component/code-group.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Element Plus]]></title>
+        <id>/zh/guide/component/element-plus.html</id>
+        <link href="/zh/guide/component/element-plus.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[外部链接]]></title>
+        <id>/zh/guide/component/external-link.html</id>
+        <link href="/zh/guide/component/external-link.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[图标]]></title>
+        <id>/zh/guide/component/icon.html</id>
+        <link href="/zh/guide/component/icon.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>/zh/guide/feature/</id>
+        <link href="/zh/guide/feature/"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Markdown]]></title>
+        <id>/zh/guide/markdown/</id>
+        <link href="/zh/guide/markdown/"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>/zh/guide/page/</id>
+        <link href="/zh/guide/page/"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[站点]]></title>
+        <id>/zh/guide/site/</id>
+        <link href="/zh/guide/site/"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Analytics]]></title>
+        <id>/zh/guide/site/analytics.html</id>
+        <link href="/zh/guide/site/analytics.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feed]]></title>
+        <id>/zh/guide/site/feed.html</id>
+        <link href="/zh/guide/site/feed.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PWA]]></title>
+        <id>/zh/guide/site/pwa.html</id>
+        <link href="/zh/guide/site/pwa.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEO]]></title>
+        <id>/zh/guide/site/seo.html</id>
+        <link href="/zh/guide/site/seo.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sitemap]]></title>
+        <id>/zh/guide/site/sitemap.html</id>
+        <link href="/zh/guide/site/sitemap.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Markdown 高级语法]]></title>
+        <id>/zh/guide/markdown/advanced/</id>
+        <link href="/zh/guide/markdown/advanced/"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自定义对齐]]></title>
+        <id>/zh/guide/markdown/advanced/align.html</id>
+        <link href="/zh/guide/markdown/advanced/align.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[属性支持]]></title>
+        <id>/zh/guide/markdown/advanced/attrs.html</id>
+        <link href="/zh/guide/markdown/advanced/attrs.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chart]]></title>
+        <id>/zh/guide/markdown/advanced/chart.html</id>
+        <link href="/zh/guide/markdown/advanced/chart.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自定义容器]]></title>
+        <id>/zh/guide/markdown/advanced/container.html</id>
+        <link href="/zh/guide/markdown/advanced/container.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECharts]]></title>
+        <id>/zh/guide/markdown/advanced/echarts.html</id>
+        <link href="/zh/guide/markdown/advanced/echarts.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FlowChart]]></title>
+        <id>/zh/guide/markdown/advanced/flowchart.html</id>
+        <link href="/zh/guide/markdown/advanced/flowchart.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Markmap]]></title>
+        <id>/zh/guide/markdown/advanced/markmap.html</id>
+        <link href="/zh/guide/markdown/advanced/markmap.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mermaid]]></title>
+        <id>/zh/guide/markdown/advanced/mermaid.html</id>
+        <link href="/zh/guide/markdown/advanced/mermaid.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlantUML]]></title>
+        <id>/zh/guide/markdown/advanced/plantuml.html</id>
+        <link href="/zh/guide/markdown/advanced/plantuml.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tex]]></title>
+        <id>/zh/guide/markdown/advanced/tex.html</id>
+        <link href="/zh/guide/markdown/advanced/tex.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v-pre 容器]]></title>
+        <id>/zh/guide/markdown/advanced/v-pre.html</id>
+        <link href="/zh/guide/markdown/advanced/v-pre.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在 Markdown 中使用 Vue]]></title>
+        <id>/zh/guide/markdown/advanced/vue.html</id>
+        <link href="/zh/guide/markdown/advanced/vue.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vuepress 语法扩展]]></title>
+        <id>/zh/guide/markdown/advanced/vuepress.html</id>
+        <link href="/zh/guide/markdown/advanced/vuepress.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Markdown 基础语法]]></title>
+        <id>/zh/guide/markdown/basic/</id>
+        <link href="/zh/guide/markdown/basic/"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[颜色]]></title>
+        <id>/zh/guide/markdown/basic/color-model.html</id>
+        <link href="/zh/guide/markdown/basic/color-model.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[定义列表]]></title>
+        <id>/zh/guide/markdown/basic/deflist.html</id>
+        <link href="/zh/guide/markdown/basic/deflist.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[脚注]]></title>
+        <id>/zh/guide/markdown/basic/footnote.html</id>
+        <link href="/zh/guide/markdown/basic/footnote.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML 标签]]></title>
+        <id>/zh/guide/markdown/basic/html-tags.html</id>
+        <link href="/zh/guide/markdown/basic/html-tags.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[引用]]></title>
+        <id>/zh/guide/markdown/basic/quote.html</id>
+        <link href="/zh/guide/markdown/basic/quote.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[样式化文本]]></title>
+        <id>/zh/guide/markdown/basic/styling-text.html</id>
+        <link href="/zh/guide/markdown/basic/styling-text.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[任务列表]]></title>
+        <id>/zh/guide/markdown/basic/task-list.html</id>
+        <link href="/zh/guide/markdown/basic/task-list.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[外部引入]]></title>
+        <id>/zh/guide/markdown/external/</id>
+        <link href="/zh/guide/markdown/external/"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BiliBili]]></title>
+        <id>/zh/guide/markdown/external/bilibili.html</id>
+        <link href="/zh/guide/markdown/external/bilibili.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CodePen]]></title>
+        <id>/zh/guide/markdown/external/codpen.html</id>
+        <link href="/zh/guide/markdown/external/codpen.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[内置文件浏览器]]></title>
+        <id>/zh/guide/markdown/external/embedded-file-viewer.html</id>
+        <link href="/zh/guide/markdown/external/embedded-file-viewer.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[shields.io]]></title>
+        <id>/zh/guide/markdown/external/shields.io.html</id>
+        <link href="/zh/guide/markdown/external/shields.io.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTobe]]></title>
+        <id>/zh/guide/markdown/external/youtobe.html</id>
+        <link href="/zh/guide/markdown/external/youtobe.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>/zh/guide/markdown/spec/</id>
+        <link href="/zh/guide/markdown/spec/"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CommonMark Spec]]></title>
+        <id>/zh/guide/markdown/spec/commonmark.html</id>
+        <link href="/zh/guide/markdown/spec/commonmark.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Flavored Markdown Spec]]></title>
+        <id>/zh/guide/markdown/spec/gfm.html</id>
+        <link href="/zh/guide/markdown/spec/gfm.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[代码演示]]></title>
+        <id>/zh/guide/markdown/advanced/code-demo/</id>
+        <link href="/zh/guide/markdown/advanced/code-demo/"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Normal Code Demo]]></title>
+        <id>/zh/guide/markdown/advanced/code-demo/normal.html</id>
+        <link href="/zh/guide/markdown/advanced/code-demo/normal.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Code Demo]]></title>
+        <id>/zh/guide/markdown/advanced/code-demo/react.html</id>
+        <link href="/zh/guide/markdown/advanced/code-demo/react.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue Code Demo]]></title>
+        <id>/zh/guide/markdown/advanced/code-demo/vue.html</id>
+        <link href="/zh/guide/markdown/advanced/code-demo/vue.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文件导入]]></title>
+        <id>/zh/guide/markdown/advanced/import/</id>
+        <link href="/zh/guide/markdown/advanced/import/"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文件包含]]></title>
+        <id>/zh/guide/markdown/advanced/include/</id>
+        <link href="/zh/guide/markdown/advanced/include/"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[include nest]]></title>
+        <id>/zh/guide/markdown/advanced/include/include-nest.html</id>
+        <link href="/zh/guide/markdown/advanced/include/include-nest.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[include]]></title>
+        <id>/zh/guide/markdown/advanced/include/include.html</id>
+        <link href="/zh/guide/markdown/advanced/include/include.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reveal]]></title>
+        <id>/zh/guide/markdown/advanced/reveal/</id>
+        <link href="/zh/guide/markdown/advanced/reveal/"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Demo]]></title>
+        <id>/zh/guide/markdown/advanced/reveal/demo.html</id>
+        <link href="/zh/guide/markdown/advanced/reveal/demo.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Themes]]></title>
+        <id>/zh/guide/markdown/advanced/reveal/themes.html</id>
+        <link href="/zh/guide/markdown/advanced/reveal/themes.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[nest]]></title>
+        <id>/zh/guide/markdown/advanced/include/nest/</id>
+        <link href="/zh/guide/markdown/advanced/include/nest/"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>/404.html</id>
+        <link href="/404.html"/>
+        <updated>2023-02-18T06:41:50.653Z</updated>
+    </entry>
+</feed>

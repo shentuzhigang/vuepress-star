@@ -1,0 +1,1 @@
+import{_ as o,o as a,c,a as e,b as r}from"./app.07530a6c.js";const t={},n=e("h1",{id:"commonmark-spec",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#commonmark-spec","aria-hidden":"true"},"#"),r(" CommonMark Spec")],-1),m=[n];function s(_,d){return a(),c("div",null,m)}const h=o(t,[["render",s],["__file","commonmark.html.vue"]]);export{h as default};
